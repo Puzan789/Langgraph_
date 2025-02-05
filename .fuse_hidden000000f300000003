@@ -1,0 +1,20 @@
+[33m6dbdb92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD~2
+[33m9106094[m HEAD@{1}: reset: moving to HEAD
+[33m9106094[m HEAD@{2}: reset: moving to HEAD
+[33m9106094[m HEAD@{3}: reset: moving to HEAD
+[33m9106094[m HEAD@{4}: reset: moving to HEAD
+[33m9106094[m HEAD@{5}: commit: updated
+[33m29d412c[m HEAD@{6}: reset: moving to HEAD
+[33m29d412c[m HEAD@{7}: commit: updated
+[33m6dbdb92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: reset: moving to HEAD~2
+[33m470b525[m HEAD@{9}: commit: updated
+[33m2225bbc[m HEAD@{10}: reset: moving to HEAD~2
+[33mc074526[m HEAD@{11}: commit: new remove env
+[33m9a3e4a0[m HEAD@{12}: checkout: moving from 9bce5ec01a0bc1ab49686d62c1a8708e6e981484 to main
+[33m9bce5ec[m HEAD@{13}: commit: updated
+[33m2225bbc[m HEAD@{14}: rebase: fast-forward
+[33m6dbdb92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{15}: rebase (start): checkout HEAD~2
+[33m9a3e4a0[m HEAD@{16}: commit: updated
+[33m2225bbc[m HEAD@{17}: commit: updated upto project
+[33m6dbdb92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{18}: Branch: renamed refs/heads/main to refs/heads/main
+[33m6dbdb92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{20}: commit (initial): first commit
